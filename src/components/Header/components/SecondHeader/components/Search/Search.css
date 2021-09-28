@@ -1,0 +1,19 @@
+.search__h-150{
+    height: 150% !important;
+}
+
+.search__icon{
+    font-size: 180% !important;
+}
+
+.search__input{
+    padding-right: 180px;
+    font-size: 25px;
+}
+
+.search__button{
+    margin-left: -77%;
+    margin-top: 5px;
+    height: 130% !important;
+    width: 150px !important;
+}

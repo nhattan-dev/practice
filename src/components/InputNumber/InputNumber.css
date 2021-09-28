@@ -1,0 +1,10 @@
+.InputNumber__input{
+    width: 90px !important;
+    border: 1px solid #ced4da;
+    text-align: center;
+}
+
+.InputNumber__button{
+    width: 50px !important;
+    border: 1px solid #ced4da;
+}

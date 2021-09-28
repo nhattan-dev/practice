@@ -1,0 +1,26 @@
+.ProductCard__title {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* number of lines to show */
+    -webkit-box-orient: vertical;
+}
+
+.ProductCard__sold {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1; /* number of lines to show */
+    -webkit-box-orient: vertical;
+    color: rgb(133, 132, 132);
+}
+
+.ProductCard__sale {
+    border-radius: 50rem!important;
+    color: white;
+    font-size: 18px;
+}
+
+.ProductCard__no-underline{
+    text-decoration: none !important;
+}

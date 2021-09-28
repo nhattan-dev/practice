@@ -1,0 +1,10 @@
+.cart__content__icon{
+    height: 100%;
+}
+
+.cart__icon{
+    font-size: 250%;
+    height: 100%;
+    margin-left: -100px;
+    color: whitesmoke;
+}

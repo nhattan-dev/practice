@@ -1,0 +1,54 @@
+.Cart__icon__voucher{
+    font-size: 180%;
+    color: teal;
+}
+
+.Cart__f{
+    background-color: rgb(255, 254, 251);
+    border: 1px solid rgba(224, 168, 0, 0.4);
+    padding: 0.75rem 1rem;
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.625rem;
+    border-radius: 2px;
+}
+
+.Cart__s{
+    background-color: #FFFFFF;
+    /* border: 1px solid rgba(224, 168, 0, 0.4); */
+    padding: 0.75rem 1rem;
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.625rem;
+    border-radius: 2px;
+}
+
+.Cart__span{
+    font-size: 18px;
+}
+
+.Cart__span__gray{
+    font-size: 20px;
+    color: rgb(185, 185, 184);
+}
+
+.Cart__span__strong-gray{
+    font-size: 20px;
+    color: rgb(85, 85, 84);
+}
+
+.Cart__w-15{
+    width: 15% !important;
+}
+
+.Cart__w-40{
+    width: 40% !important;
+}
+
+.Cart__container{
+    background-color: #F5F5F5;
+}
+
+.Cart__all{
+    font-size: 150%;
+}

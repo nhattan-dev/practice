@@ -1,0 +1,33 @@
+.Footer__container{
+    border-top: 4px solid #ee4d2d
+}
+
+.Footer__w-20{
+    width: 20% !important;
+}
+
+.Footer__title{
+    color: rgb(112, 112, 112);
+    font-size: 22px;
+}
+
+.Footer__item{
+    list-style: none;
+    font-size: 20px;
+    color: rgb(185, 185, 184);
+    padding: 5px 0px;
+}
+
+.Footer__cs{
+    font-size: 22px;
+    color: rgb(185, 185, 184);
+}
+
+.Footer__br{
+    color: rgb(185, 185, 184);
+}
+
+.Footer__p{
+    color: rgb(112, 112, 112);
+    font-size: 20px;
+}

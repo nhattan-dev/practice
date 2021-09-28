@@ -1,0 +1,22 @@
+.Product__span{
+    font-size: 20px;
+    color: rgb(185, 185, 184);
+}
+
+.Product__add{
+    background-color: rgb(255, 221, 202);
+    font-size: 20px;
+}
+
+.Product__icon{
+    font-size: 150%;
+}
+
+.Product__buy-now{
+    font-size: 20px;
+    color: white;
+}
+
+.Product__add:hover{
+    background-color: rgb(250, 234, 225);
+}
