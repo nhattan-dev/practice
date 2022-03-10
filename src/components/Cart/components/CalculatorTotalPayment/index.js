@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import { Button, Card, Col, Form, Row } from 'react-bootstrap'
+import { Button, Form, Row } from 'react-bootstrap'
 import { ThemeContext } from '../../../../context/ThemeContext'
 import "./CalculatorTotalPayment.css"
 

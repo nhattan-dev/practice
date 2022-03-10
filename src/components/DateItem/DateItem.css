@@ -1,0 +1,22 @@
+.DateItem__trapezoid {
+    margin-top: -14px;
+    margin-left: 10.5px;
+    border-bottom: 28px solid red;
+    border-left: 28px solid transparent;
+    border-right: 28px solid transparent;
+    height: 10px;
+    width: 62px;
+    transform: rotate(45deg);
+    position: fixed;
+}
+  
+.DateItem__percent{
+    position: fixed;
+    transform: rotate(-45deg);
+    margin-left: -8px;
+    color: #fff;
+}
+  
+.DateItem__hide{
+    display: none;
+}

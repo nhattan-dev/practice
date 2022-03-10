@@ -5,13 +5,14 @@ import Login from './components/Login'
 import Admin from './components/Admin';
 import User from './components/User';
 import Home from './components/Home';
-import React from 'react';
 import { ThemeContext } from './context/ThemeContext';
 import ValueStored from './helper/key'
 import EndPoint from './helper/endpoint'
 import SearchResult from './components/SearchResult';
 import Cart from './components/Cart';
 import Product from './components/Product';
+// import HotelDatePicker from "./components/HotelDatePicker"
+// import { Col, Row } from 'reactstrap';
 
 function App() {
 
@@ -21,6 +22,11 @@ function App() {
   }
 
   return (
+    // <Row>
+    //   <Col md="auto" className="p-5 m-5">
+    //     <HotelDatePicker/>
+    //   </Col>
+    // </Row>
     <Router>
       <Switch>
         <ThemeContext.Provider value={themes}>
